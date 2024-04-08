@@ -1,0 +1,7 @@
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.AssemblyInfo.cs
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shrutishukla\OneDrive - Nagarro\Desktop\ASSIGNMENT\Book Borrowing System\Backend\Backend\obj\Release\net6.0\Backend.MvcApplicationPartsAssemblyInfo.cache

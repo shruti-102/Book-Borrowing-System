@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\DataAccess Layer",
+    "\\Backend\\DataAccess Layer\\modals",
+    "\\Backend\\Presentation Layer",
+    "\\Backend\\Presentation Layer\\Controllers"
+  ],
+  "SelectedNode": "\\Backend\\DataAccess Layer\\DataAccess.cs",
+  "PreviewInSolutionExplorer": false
+}
